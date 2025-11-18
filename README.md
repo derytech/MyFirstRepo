@@ -1,2 +1,2 @@
-# -MyFirstRepo
-Forking and contributing to repositories
+first repository, GitHub learning task
+
